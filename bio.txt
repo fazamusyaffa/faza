@@ -1,0 +1,49 @@
+<html>
+<head>
+<title> Biodata</title>
+</head>
+<form action="#" style="width: 700px"class="posisi";>
+<fieldset class="h"/>
+<table style="width: 600px;">
+<body style="background-color:white"> </body>
+<tr>
+
+</tr>
+
+<center>
+<font size="25px">
+<b>Biodata</b>
+</font>
+</center>
+
+<tr>
+<td><b>NAMA</b></td>
+<td>: FAZA MUSYAFFA</td>
+</tr>
+
+<tr>
+<td><b>ALAMAT</b></td>
+<td>: Surabaya, Jl. Bhaskara Tengah C 22</td>
+</tr>
+
+<tr>
+<td><b>TTL</b></td>
+<td>: Denpasar, 22 September 2001</td>
+</tr>
+
+<tr>
+<td><b>JENIS KELAMIN</b></td>
+<td>: Laki-laki</td>
+</tr>
+
+<tr>
+<td><b>NO.TELEPON</b></td>
+<td>: 082237223907</td>
+</tr>
+
+<tr>
+<td><b>AGAMA</b></td>
+<td>: Islam</td>
+</tr>
+</body>
+</html>
